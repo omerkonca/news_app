@@ -8,9 +8,10 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- MVVM Mimarisini kullanarak geliştirmiş olduğum haber uygulaması
+- api ler https://newsapi.org/ sitesinden çekilmiştir
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- HABER
+![Ekran Görüntüsü (42)](https://user-images.githubusercontent.com/65457096/192034916-b9baf757-5712-42ea-b105-ba3b6645b533.png)
+- HABERİN DETAYI
+![Ekran Görüntüsü (41)](https://user-images.githubusercontent.com/65457096/192034921-0a10d390-ca52-451a-8897-12a640a8f278.png)
