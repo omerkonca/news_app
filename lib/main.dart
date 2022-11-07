@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
       title: 'Haberler',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.red,
+        primarySwatch: Colors.blue,
       ),
       home: ChangeNotifierProvider(
         create: (context) => ArticleListViewModel(),
